@@ -1,0 +1,95 @@
+======================================================================
+http://www.cryptoclub.org
+ 
+
+Main Page
+  -- General: Top Row: Link: "Login/Register"
+     -- Click on "Login/Register" and get this embedded in same page:
+        -- "[X]" in top right corner
+        -- "Login/Register" header 
+        -- Returning users login here:
+        -- "User ID", textbox
+        -- "Password", testbox
+        -- "Forgot Username or Password" link
+        -- "Logon" button
+        -- "New users register here:"
+        -- "Register" button
+  -- General: Bottom Row Links:
+     -- "About This Site"
+****    -- LOTS OF CONTEXT - TBD (2/20/2015: Printed out)
+     -- "(c) Copyright Info"
+****    -- "Not Found" (BUG)
+     -- "Contact Us"
+****    -- "Not Found" (BUG)
+     -- "Other Links"
+****    -- "Not Found" (BUG)
+  -- Hovers in Middle of Page:
+     -- Hovers: Ciphers, Challenges, Games, Comics, Math, "For Teachers"
+        -- NOTE: When you hovers on the <above>, you now see additional text.
+     -- General:
+        -- "Crypto Club" logo, 
+        -- (DUP) Top Row: Ciphers, Challenges, Games, Comics, Math,
+           "For Teachers", "Login/Register"
+        -- (DUP) Bottom Row: "About This Site", "(c) Copyright Info",
+           "Contact Us", "Other Links"
+     -- Links: 
+        -- Ciphers
+           -- Title: "Ciphers Tools", text(2 sentences)
+           -- SubTitle: "Encrypting and Decrypting Tools", 8 buttons(
+              Caesar, Substitution, Keyword, Vignere,
+              Letter => Number, Additive, Multiplicative, Affine)
+           -- SubTitle: Cracking Tools, text (1 sentence), 3 buttons(
+              Crack Caesar, Crack Substitution, Crack Vigenere)
+****       -- CLICK ON ALL 11 BUTTONS - TBD
+        -- Challenges
+           -- Title: "Crypto Challenges", text (2 sentences)
+           -- 3 button ("Message Board" button + 3 sentences,
+              "Joke Board" button + 3 sentences,
+              "My Group Messages" + 2 sentences + 1 "My Group" link)
+****          -- CLICK ON ALL 3 BUTTONS - TBD
+              -- When you link on "My Group", you get "Join a Group" dialog
+                 -- Title: "Join a Group", text: 1 sentence
+                 -- "Join a Public Group:" text, menu: 3 choices,
+                 -- "Join a Private Group:" text, 1 sentence, 
+                    "Group ID:", textbox,
+                    "Group Password:", textbox,
+                    "Submit" button
+        -- Games
+           -- Title: Games
+           -- 5 panels: Desert Oasis, Rogue Computer, Village of
+              Numbers, Mission Cyptossible, Cipher Island
+****       -- CLICK ON 5 PANELS - TBD
+        -- Comics
+           -- Title: Comics
+           -- 3 panels: Beale Papers Mystery, Mary Queen of Scots,
+              Zimmerman Telegram
+****       -- CLICK ON 3 PANELS - TBD
+        -- Math
+           -- Title: Math Stuff, "Text will go here." text
+           -- text: "Please come back soon!"
+        -- "For Teachers"
+           -- Title: "For Teachers"
+           -- SubTitle: "CryptoClub Teacher Workshop - June 2015!"
+              -- Link: Workshop Flyer
+                 -- 2/20/2015: Print out page.
+              -- Link: "More about the CryptoClub Project and its Workshops"
+                 -- 2/20/2015: Print out page.
+           -- SubTitle: "Online Teacher Tools"
+              -- Link: "Treasure Hunt Clue Generator"
+****             -- CLICK - TBD
+              -- Link: "Private Groups"
+****             -- CLICK - TBD
+
+OTHER REFERENCES
+  -- http://www.lsri.uic.edu/institute/project/cryptoclub
+  -- http://www.math.uic.edu/CryptoClubProject/documents/CCSSM.pdf
+  -- http://www.math.uic.edu/CryptoClubProject/documents/MathematicsinCryptoClub.pdf
+  -- http://www.math.uic.edu/CryptoClubProject/documents/CryptoClubApplication.pdf
+  -- http://www.math.uic.edu/CryptoClubProject/CCpacket.pdf
+  -- http://www.math.uic.edu/CryptoClubProject/documents/CCSSM.pdf
+  -- http://cryptoclub.math.uic.edu/about/aboutbook.htm
+
+beissing@uic.edu - http://www.lsri.uic.edu/people/janet-beissinger
+sgoldman@uic.edu - http://www.lsri.uic.edu/people/susan-goldman
+dlevin6@uic.edu - Project Coordinator
+EOF
