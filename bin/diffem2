@@ -1,0 +1,10 @@
+ROOTDIR="remote-capybara-cucumber-example"
+for i in `find ../${ROOTDIR} -type f |egrep -v "lock|rvmrc" 2> /dev/null` ; do
+    NEWFILEN=`echo $i |sed -e "s,../${ROOTDIR}/,,"`
+    echo "== $i `pwd`/${NEWFILEN} =================================================="
+    diff -w -b $i `pwd`/${NEWFILEN} 2> /dev/null
+    #sdiff -w 80 $i `pwd`/${NEWFILEN}
+done
+# | egrep -v "< # |< #\-\-\-|<  ! " |cat -ev
+
+
